@@ -1,3 +1,4 @@
+#define _CRT_SECURE_NO_WARNINGS
 #ifndef DICT_LOADER_H
 #define DICT_LOADER_H
 
