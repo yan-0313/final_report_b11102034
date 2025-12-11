@@ -70,3 +70,11 @@ Using Visual Studio (Windows, recommended)<br>
 ### Delete a word<br> 
 <img width="1582" height="845" alt="image" src="https://github.com/user-attachments/assets/cbbd5992-2361-43b3-8787-278607019ce2" />
 
+# Dictionary Format<br> 
+Every line must contain:
+`word<TAB>meaning`
+Example:
+`accord	[n] 一致、符合
+Bible	[n]《聖經》
+X-ray	X光
+apple	[n] 蘋果`
