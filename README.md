@@ -43,7 +43,19 @@ The program loads dictionary data from .txt files and provides an interactive co
 
 + Case-insensitive comparison<br> 
   “X-ray”, “x-RAY”, “Bible”, “bible” all map to same BST location.<br> 
-
+# How to Compile<br> 
+1. Download Project Files<br>
+Please place all files in the same folder before opening Visual Studio.<br> 
+2. Create a New Visual Studio 2026 Project<br>
+  1. Open Visual Studio 2026<br>
+  1. Click Create a new project<br>
+  1. Choose Empty Project (C language project)<br>
+  1. Name the project<br>
+  1. Choose any location (not required to match file folder)<br>
+  1. Click Create<br>
+3. Add the Source Files to the Project<br>
+4. Build the Program<br>
+5. Run the Program<br>
 
 # How to Run<br> 
 <br> After executing the program, you will see the main menu
