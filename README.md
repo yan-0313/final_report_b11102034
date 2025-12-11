@@ -48,13 +48,19 @@ The program loads dictionary data from .txt files and provides an interactive co
 Using Visual Studio (Windows, recommended)<br> 
 
 # How to Run<br> 
-After executing the program, you will see the main menu:
-<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/5b0173d6-d4fb-4072-b15b-6f29bc764512" />
-Load dictionary<br> 
-<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/3cba9c04-c40e-4b2c-afa9-14694576959a" />
-Show all dictionary data<br> 
-<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/261efcdb-3cec-4965-ba96-7ed9941c74b3" />
-Search<br> 
-<img width="1583" height="945" alt="image" src="https://github.com/user-attachments/assets/c490919d-0941-45d9-9ac2-f49c7c944004" />
+<br> After executing the program, you will see the main menu
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/fdce65e8-a78a-498c-966a-b2d278422bb0" />
+
+<br> ## Load dictionary<br> 
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/cab94693-121c-43df-b572-04a37714fc2f" />
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/d5f37743-fb24-4c2b-95cf-9e5fd9b6030a" />
+
+<br> ## Show all dictionary data<br> 
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/57c4bb4b-c001-4811-9950-9b258bc51453" />
+
+<br> ## Search<br> 
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/9e45a585-f823-44d0-9f59-568611ba467c" />
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/dd3b3622-7b7e-4729-84c2-eded7c750991" />
+
 
 
