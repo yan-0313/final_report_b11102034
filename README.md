@@ -47,12 +47,14 @@ The program loads dictionary data from .txt files and provides an interactive co
 #How to Compile<br> 
 Using Visual Studio (Windows, recommended)<br> 
 
-Step 1: Create a C Project<br> 
-  File → New → Project → Empty Project<br> 
-  Add existing files:<br> 
-  main.c<br> 
-  bst.c<br> 
-  dict_loader.c<br> 
-  bst.h<br> 
-  dict_loader.h<br> 
+# How to Run<br> 
+After executing the program, you will see the main menu:
+<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/5b0173d6-d4fb-4072-b15b-6f29bc764512" />
+Load dictionary<br> 
+<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/3cba9c04-c40e-4b2c-afa9-14694576959a" />
+Show all dictionary data<br> 
+<img width="1583" height="789" alt="image" src="https://github.com/user-attachments/assets/261efcdb-3cec-4965-ba96-7ed9941c74b3" />
+Search<br> 
+<img width="1583" height="945" alt="image" src="https://github.com/user-attachments/assets/c490919d-0941-45d9-9ac2-f49c7c944004" />
+
 
