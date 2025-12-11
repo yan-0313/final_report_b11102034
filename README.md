@@ -51,16 +51,22 @@ Using Visual Studio (Windows, recommended)<br>
 <br> After executing the program, you will see the main menu
 <img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/fdce65e8-a78a-498c-966a-b2d278422bb0" />
 
-## Load dictionary<br> 
+### Load dictionary<br> 
 <img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/cab94693-121c-43df-b572-04a37714fc2f" />
 <img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/d5f37743-fb24-4c2b-95cf-9e5fd9b6030a" />
 
-## Show all dictionary data<br> 
+### Show all dictionary data<br> 
 <img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/57c4bb4b-c001-4811-9950-9b258bc51453" />
 
-## Search<br> 
-<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/9e45a585-f823-44d0-9f59-568611ba467c" />
+### Search<br> 
 <img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/dd3b3622-7b7e-4729-84c2-eded7c750991" />
 
+### Search for a non-existing word<br> 
+<img width="1582" height="789" alt="image" src="https://github.com/user-attachments/assets/9e45a585-f823-44d0-9f59-568611ba467c" />
 
+### Add a word and search<br> 
+<img width="1582" height="845" alt="image" src="https://github.com/user-attachments/assets/d84e650a-cbfa-4fae-9f75-94429bb2e0a1" />
+
+### Delete a word<br> 
+<img width="1582" height="845" alt="image" src="https://github.com/user-attachments/assets/cbbd5992-2361-43b3-8787-278607019ce2" />
 
