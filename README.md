@@ -44,8 +44,6 @@ The program loads dictionary data from .txt files and provides an interactive co
 + Case-insensitive comparison<br> 
   “X-ray”, “x-RAY”, “Bible”, “bible” all map to same BST location.<br> 
 
-#How to Compile<br> 
-Using Visual Studio (Windows, recommended)<br> 
 
 # How to Run<br> 
 <br> After executing the program, you will see the main menu
