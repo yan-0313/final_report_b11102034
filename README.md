@@ -72,7 +72,7 @@ Using Visual Studio (Windows, recommended)<br>
 
 # Dictionary Format<br> 
 Every line must contain:
-`word<TAB>meaning`
+`word<TAB>meaning`<br> 
 Example:
 `accord	[n] 一致、符合
 Bible	[n]《聖經》
