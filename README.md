@@ -74,7 +74,7 @@ Using Visual Studio (Windows, recommended)<br>
 Every line must contain:
 `word<TAB>meaning`<br> 
 Example:
-`accord	[n] 一致、符合
-Bible	[n]《聖經》
-X-ray	X光
+`accord	[n] 一致、符合<br> 
+Bible	[n]《聖經》<br> 
+X-ray	X光<br> 
 apple	[n] 蘋果`
