@@ -1,4 +1,4 @@
-#Mini Search Engine
+#Mini Search Engine<br>  
 This project implements a Mini Search Engine using a Binary Search Tree (BST) data structure.
 All dictionary entries (word + meaning) are stored inside a BST with case-insensitive ordering, enabling:
 ● Fast search
