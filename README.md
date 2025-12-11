@@ -11,14 +11,14 @@ The program loads dictionary data from .txt files and provides an interactive co
 # Project File Structure<br>  
 /final_report_b11102034<br>  
 │<br>  
-├── main.c<br>  
-├── bst.c<br>  
-├── bst.h<br>  
-├── dict_loader.c<br>  
-├── dict_loader.h<br>  
-├── dictionary_data_1.txt<br>  
-├── dictionary_data_2.txt<br>  
-└── README.md<br>  
+├── main.c<br> 
+├── bst.c<br> 
+├── bst.h<br> 
+├── dict_loader.c<br> 
+├── dict_loader.h<br> 
+├── dictionary_data_1.txt<br> 
+├── dictionary_data_2.txt<br> 
+└── README.md<br> 
 <br>  
 # Features<br>  
 ✔ Load dictionary<br>  
