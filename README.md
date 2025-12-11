@@ -1,4 +1,6 @@
-[TOC]<br> 
+[TOC]  
+<br>\
+
 # Mini Search Engine<br> 
 This project implements a Mini Search Engine using a Binary Search Tree (BST) data structure.<br> 
 All dictionary entries (word + meaning) are stored inside a BST with case-insensitive ordering, enabling:<br> 
@@ -32,9 +34,9 @@ The program loads dictionary data from .txt files and provides an interactive co
   Shows whether the word exists<br> 
   Prints search path (all visited nodes)<br> 
   Prints comparison count<br> 
-  If not found → suggests closest words<br> 
-  1. Predecessor (largest word smaller than query)<br> 
-  1. Successor (smallest word larger than query)<br> 
+  If not found → suggests closest words<br>
+    + Predecessor (largest word smaller than query)<br>
+    + Successor (smallest word larger than query)<br> 
 
 + Add a new word<br> 
   Insert or update a word and its meaning.<br> 
